@@ -1,0 +1,17 @@
+/home
+/men-s-tailoring
+/women-s-tailoring
+/kids-wear
+/alteration-services
+/gallery
+/accessories
+/contact-us
+/the-suit-maker
+/yashveer-singh-rajpoot
+/yashveer
+/yashveer-singh
+/yashveer-labs
+/yashveerlabs
+/rajpoot-industries
+/rajpootindustries
+/yashveer-singh-rajpoot-the-founder-of-yashveer-labs-and-rajpoot-industries
